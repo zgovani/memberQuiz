@@ -1,7 +1,5 @@
-# sp17proj1
+# Member Quiz
 
-Repository for Spring 2017 MDB Training Program Mini-Project 1 Submissions
+Member Quiz offers a template for a photo-name matching trivia app. A randomized photo is displayed, and four names, one real and 3 random, are displayed as options. I implemented the app using photos and names of friends, but the code is easily refactored to use any set of photos.
 
-Finalized mini-projects should be stored in personal portfolios, but this repository will be used for providing feedback on code quality using the GitHub code review features.
-
-When pushing code to this repo, DO NOT push to master. Create a new branch and open a pull request.
+Features include: randomized answers for each question, multiple choice selection, score tracking, answer history, and animated button presses.
